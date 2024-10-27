@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advance Javascript concepts and AI tools.
 - 💞️ I’m looking to collaborate/freelance on AI projects and Front End development
 - 📫 You can reach me on my email: trushita@gmail.com
+- check out my portfolio [here](https://trushita23.github.io/My-Portfolio/#hero)
 
 <!---
 trushita23/trushita23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
