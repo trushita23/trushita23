@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trushita Maurya
-- 👀 I’m interested in coding , experimenting , learning and building new stuffs.
-- 🌱 I’m currently learning advance Javascript concepts.
-- 💞️ I’m looking to collaborate on AI projects and Web development
+- 👀 I’m interested in coding , experimenting , learning and building new stuffs. I am experienced in React Js and Java.
+- 🌱 I’m currently learning advance Javascript concepts and AI tools.
+- 💞️ I’m looking to collaborate/freelance on AI projects and Front End development
 - 📫 You can reach me on my email: trushita@gmail.com
 
 <!---
