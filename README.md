@@ -54,16 +54,3 @@ You can click the Preview link to take a look at your changes.
 ![TDD](https://img.shields.io/badge/TDD-Development-61DAFB?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-23D96C?style=for-the-badge)
 
-### **Architecture & Design**
-![Micro Frontend](https://img.shields.io/badge/Micro%20Frontend-Architecture-FF6C37?style=for-the-badge)
-![Modular Libraries](https://img.shields.io/badge/Modular%20Component%20Libraries-Design-2C8EBB?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth-Security-4CAF50?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge)
-
-### **Other**
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Mentoring](https://img.shields.io/badge/Mentoring-Collaboration-007396?style=for-the-badge)
-![Freelancer](https://img.shields.io/badge/Freelancer-Work-29B6F6?style=for-the-badge)
-
